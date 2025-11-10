@@ -6,6 +6,8 @@ export default function Home() {
     <div className="">
       <p>hello, this is ezras website</p>
       <Link href="/manifesto">manifesto</Link>
+      <br></br>
+      <Link href="/ideas">ideas</Link>
     </div>
     </>
   );
